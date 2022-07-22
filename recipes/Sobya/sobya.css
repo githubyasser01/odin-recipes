@@ -1,0 +1,39 @@
+.title{
+    font-family: 'Allura';
+}
+
+body{
+    background-color: beige;
+}
+.recipe-pic{
+    width: 350px;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: brown;
+}
+
+.recipe-pic:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.intro{
+    font-family: 'Allura', cursive;
+    font-size: 30px;
+    max-width: 90%;
+    margin-left: 30px;
+    text-align: center;
+}
+
+.ing-list {
+     font-family: 'Source Sans Pro', sans-serif;
+     font-weight: bold;
+}
+
+.steps {
+    width: 80%;
+     font-family: 'Source Sans Pro';
+     font-weight: bolder;
+     font-size:large;
+    }
